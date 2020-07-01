@@ -1,4 +1,4 @@
-# 清华简约主题PPT模板
+# 常用PPT模板
 
 最近答辩期间，很多同学都在寻找清华主题的答辩模板。一方面有使用LaTeX制作Beamer的模板（见Overleaf上的模板[THU Beamer Theme](https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb)），另一方面民间也存在着一些PPT模板。考虑到很多人可能不适应Beamer的使用（主要是内容和排版设计不是可见即所得，定制有门槛），以及我找到的PPT模板也都不太好使（要么图案设计太复杂、不好看，要么没有制作成PPT母版导致每次使用都要复制粘贴+微调，不方便）。
 
